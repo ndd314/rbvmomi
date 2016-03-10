@@ -1,9 +1,11 @@
+.yardoc
+
 *.swp
 *.swo
-pkg/
 *.gemspec
+*.rbc
+
+pkg/
 vmodl
 doc
-.yardoc
-*.rbc
 coverage
