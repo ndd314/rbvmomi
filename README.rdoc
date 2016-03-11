@@ -8,6 +8,9 @@ supports the vSphere 5.0 API. RbVmomi specific documentation is
 online[http://rdoc.info/github/rlane/rbvmomi/master/frames] and is meant to
 be used alongside the official documentation[http://www.vmware.com/support/developer/vc-sdk/visdk41pubs/ApiReference/index.html].
 
+== Build Status
+{<img src="https://travis-ci.org/ndd314/rbvmomi.svg?branch=use_rvm" alt="Build Status" />}[https://travis-ci.org/ndd314/rbvmomi]
+
 == Installation
 
     gem install rbvmomi
